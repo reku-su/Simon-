@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Hello world!</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <!-- this is the start of content -->
+    <audio src = "https://cdn.glitch.global/6ef204ec-55d9-432b-b584-a88f5858b307/studio-audience-awwww-sound-fx.mp3?v=1648721935766" id = "loseAudio"></audio>
+    <audio src = "https://cdn.glitch.global/6ef204ec-55d9-432b-b584-a88f5858b307/final-fantasy-vii-victory-fanfare-1.mp3?v=1648722292450" id = "winAudio"></audio>
+    <h1>
+      Simon!
+    </h1>
+    <p>
+      Welcome to Simon! the game. This game is a test of your memorization skills. The goal of the game is to repeat the pattern of the buttons that 
+      pop up as the game progresses. The game gets faster as you get more patterns correct. Press the start button to begin!
+    </p>
+    
+    <button id="startBtn" onclick = "startGame()">
+      Start
+    </button>
+    <button id="stopBtn" class = "hidden" onclick = "stopGame()">
+      Stop
+    </button>
+    
+    <div id = "gameButtonArea">
+      <button id = "button1" onmousedown="startTone(1)" onmouseup="stopTone()" onclick="guess(1)">
+      </button>
+      <button id = "button2" onmousedown="startTone(2)" onmouseup="stopTone()" onclick="guess(2)">
+      </button>
+      <button id = "button3" onmousedown="startTone(3)" onmouseup="stopTone()" onclick="guess(3)">
+      </button>
+      <button id = "button4" onmousedown="startTone(4)" onmouseup="stopTone()" onclick="guess(4)">
+      </button>
+      <button id = "button5" onmousedown="startTone(5)" onmouseup="stopTone()" onclick="guess(5)">
+      </button>
+      <button id = "button6" onmousedown="startTone(6)" onmouseup="stopTone()" onclick="guess(6)">
+      </button>
+      <button id = "button7" onmousedown="startTone(7)" onmouseup="stopTone()" onclick="guess(7)">
+      </button>
+      
+    </div>
+    <p id = "mistake">
+      Mistakes : 
+    </p>
+    
+    
+  </body>
+</html>
