@@ -46,13 +46,13 @@ The following **additional** features are implemented:
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 The following resources were used to implement extra features:
-   https://appdividend.com/2022/01/19/javascript-wait/
-   https://stackoverflow.com/questions/18083061/make-element-unclickable-click-things-behind-it
-   https://sebhastian.com/display-javascript-variable-html/?ref=morioh.com&utm_source=morioh.com
-   https://morioh.com/p/51f90f5a2eb1
-   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-   https://www.delftstack.com/howto/javascript/javascript-float-to-int/#convert-float-to-int-using-number.tofixed-in-javascript
-   https://www.w3.org/wiki/CSS/Properties/color/keywords
+   - https://appdividend.com/2022/01/19/javascript-wait/
+   - https://stackoverflow.com/questions/18083061/make-element-unclickable-click-things-behind-it
+   - https://sebhastian.com/display-javascript-variable-html/?ref=morioh.com&utm_source=morioh.com
+   - https://morioh.com/p/51f90f5a2eb1
+   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+   - https://www.delftstack.com/howto/javascript/javascript-float-to-int/#convert-float-to-int-using-number.tofixed-in-javascript
+   - https://www.w3.org/wiki/CSS/Properties/color/keywords
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
