@@ -65,6 +65,8 @@ Besides the necessary features, most of the extra features I added to this memor
 
 The only question I have about web development is, how can we take it more steps further? After completing the required steps for this prework, I started wondering how to make the website and game more friendly to the player, mainly in how the game looks. I started wondering if it was possible to add animations to the buttons that we made, or make it so that the buttons or text follow a specific format and not go to the right of the screen and wrap around endlessly. The iOS course that CodePath also offers slowly showed us how to style our iOS apps the way we want to, so I wonder if HTML lets us have that same freedom.
 
+On that note, I also wonder how more complex websites structure their HTML and CSS code. I would imagine that there are a multitude of elements that they need to keep track of as the website grows; there must be some formalities or conventions that are followed at a professional level.
+
 On the topic of making small games on websites, I also wonder how certain websites like Newgrounds embed game engine windows into their websites? I'll have to look into that one pretty soon.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
@@ -77,7 +79,7 @@ Since the prework touched a lot on web development, I would also spend a bit tim
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.youtube.com/watch?v=ATpluI0i5x8)
 
 
 ## License
