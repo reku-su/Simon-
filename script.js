@@ -112,14 +112,7 @@ function guess(btn){
       loseGame();
     }
     else{
-      if(progress == 9){
-        document.getElementById("mistake").innerHTML = "Mistakes : " + mistakes;
-        winGame();
-      }
-      else{
-        progress++;
-        playClueSequence();
-      }
+      playClueSequence();
     }
     return;
   }
